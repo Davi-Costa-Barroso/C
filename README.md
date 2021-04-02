@@ -1,2 +1,2 @@
-# Ice-cream-program
+# IceCreamProgram
 ice cream program in C
