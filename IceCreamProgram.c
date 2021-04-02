@@ -1,4 +1,4 @@
-//Davi Costa Barroso, Trabalho de implementacao
+//Davi Costa Barroso
 #include <stdio.h>
 //Variaveis Globais de estoque e contador de vendas
 int estoque_refri = 300;
