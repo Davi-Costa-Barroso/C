@@ -1,2 +1,2 @@
 # Programação em C.
--Programa para controle de estoque de uma sorveteria.
+- Programa para controle de estoque de uma sorveteria.
