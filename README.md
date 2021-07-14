@@ -1,2 +1,2 @@
-# IceCreamProgram
-ice cream program in C. Allows you to check the stock of products for sale.
+# Controle de estoque para uma sorveteria
+Construido em C.
