@@ -1,2 +1,3 @@
 # Programação em C.
-- Programa para controle de estoque de uma sorveteria.
+- Estoque de sorveteria.
+- Sistema de biblioteca
